@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-oct-2017, 2:24:53
+    Author     : nicolas
+*/
+
+div.error{
+    font-family: "Roboto";
+    color: #D32F2F;
+    visibility: hidden;
+}
+div.main{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border-top: 40px solid #000;
+}
+div.mainDown{
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border-top: 40px solid #000;
+    margin-bottom: 4%;
+   
+}
+.StyleText{
+    width:100%;
+    text-align: center; 
+}
+.StyleMenu{
+    width:100%;
+    text-align: center; 
+}
+img{
+    max-width: 100%;
+    height: auto;
+    padding-top:1%
+}
+.StyleImageRegis{
+    max-width: 100%;
+    height: auto;
+}
+.StyleDown{
+    width:100%;
+    text-align: center; 
+}
+
+.mdl-textfield__label:after{
+    background-color: #000;
+   border:none;
+   border-bottom:1px solid rgba(0,0,0,0);
+   color: black;
+}
+.mdl-button.mdl-js-button.mdl-js-ripple-effect{
+    text-transform: lowercase;
+}
+a{
+    text-decoration-color: grey;
+    color: yellow;
+}
+
+
